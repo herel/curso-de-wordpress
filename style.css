@@ -1,0 +1,17 @@
+/*
+Theme Name: Blog
+Theme URI: https://herelodin.com/
+Author: Herel odin
+Author URI: https://herelodin.com/
+Description: Mi primer tema de wordpress
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: blog
+Tags: awesome theme
+*/
+ 
+body{
+    margin :0px;
+    padding :0px;
+}
